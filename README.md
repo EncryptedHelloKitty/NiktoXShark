@@ -1,2 +1,4 @@
-# NiktoXShark
-Web server scanner designed to identify vulnerabilities and potential security issues in web servers. And a command-line network protocol analyzer, serving as the terminal-based counterpart of Wireshark.
+# Project Name: NiktoXShark
+
+## Description
+This project demonstrates the use of two powerful tools, **Nikto** and **TShark**, to perform web server vulnerability assessment and network traffic analysis. These tools are essential in identifying potential security risks and monitoring network activities.
